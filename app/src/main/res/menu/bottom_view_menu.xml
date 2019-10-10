@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_cake"
+        android:icon="@drawable/ic_cake_is_a_lie_24dp"
+        android:title="cake is a lie"
+    />
+    <item
+        android:id="@+id/navigation_death"
+        android:icon="@drawable/ic_dead_man_24dp"
+        android:title="exit is here"
+    />
+
+</menu>
